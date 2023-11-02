@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ToDoList/static/js/main.78aeff57.js",
+    "static/js/180.ea2ac223.js": "/ToDoList/static/js/180.ea2ac223.js",
+    "favicon.ico": "/ToDoList/favicon.ico",
+    "index.html": "/ToDoList/index.html",
+    "favicon-32.png": "/ToDoList/favicon-32.png",
+    "favicon-16.png": "/ToDoList/favicon-16.png",
+    "serve.json": "/ToDoList/serve.json",
+    "manifest.json": "/ToDoList/manifest.json",
+    "main.78aeff57.js.map": "/ToDoList/static/js/main.78aeff57.js.map",
+    "180.ea2ac223.js.map": "/ToDoList/static/js/180.ea2ac223.js.map"
+  },
+  "entrypoints": [
+    "static/js/180.ea2ac223.js",
+    "static/js/main.78aeff57.js"
+  ]
+}
