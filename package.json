@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://comatos4.github.io/ToDoList/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -23,6 +24,5 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true,
-  "homepage": "https://comatos4.github.io/ToDoList/"
+  "private": true
 }
